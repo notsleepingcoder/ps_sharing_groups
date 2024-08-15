@@ -1,4 +1,5 @@
 PowerShell script for copy policy groups from source user to destination user
+
 How to use?
 1. Change USER1 in $sourceUser to source user's sAMAccountname
 2. Change USER2 in $destinationUser to destination user's sAMAccountname
